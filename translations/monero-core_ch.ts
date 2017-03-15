@@ -6,12 +6,12 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="51"/>
         <source>Add new entry</source>
-        <translation>增加付款位址</translation>
+        <translation>增加付款地址</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="60"/>
         <source>Address</source>
-        <translation>位址</translation>
+        <translation>地址</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="62"/>
@@ -21,7 +21,7 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="71"/>
         <source>QRCODE</source>
-        <translation type="unfinished"></translation>
+        <translation>二维码</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="93"/>
@@ -31,51 +31,51 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="102"/>
         <source>Payment ID &lt;font size=&apos;2&apos;&gt;(Optional)&lt;/font&gt;</source>
-        <translation>付款 ID &lt;font size=&apos;2&apos;&gt;(可選填)&lt;/font&gt;</translation>
+        <translation>付款ID &lt;font size=&apos;2&apos;&gt;(可选填)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="104"/>
         <source>&lt;b&gt;Payment ID&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;A unique user name used in&lt;br/&gt;the address book. It is not a&lt;br/&gt;transfer of information sent&lt;br/&gt;during the transfer</source>
-        <translation>&lt;b&gt;付款 ID&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;在位址簿裡&lt;br/&gt;用以區分的使用者名稱&lt;br/&gt;這不是付款時&lt;br/&gt;傳送的資訊</translation>
+        <translation>&lt;b&gt;付款ID&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;在地址本里&lt;br/&gt;用以区分的用户名&lt;br/&gt;这不是付款时&lt;br/&gt;传送的信息</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="116"/>
         <source>Paste 64 hexadecimal characters</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴64位十六进制字符</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="125"/>
         <source>Description &lt;font size=&apos;2&apos;&gt;(Optional)&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>描述 &lt;font size=&apos;2&apos;&gt;(可选填)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="138"/>
         <source>Give this entry a name or description</source>
-        <translation type="unfinished"></translation>
+        <translation>为这个地址命名或者做出说明</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="153"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>新增</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="158"/>
         <source>Error</source>
-        <translation type="unfinished">錯誤</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="161"/>
         <source>Invalid address</source>
-        <translation type="unfinished"></translation>
+        <translation>无效地址</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="165"/>
         <source>Can&apos;t create entry</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建地址</translation>
     </message>
     <message>
         <source>Description &lt;font size=&apos;2&apos;&gt;(Local database)&lt;/font&gt;</source>
-        <translation type="vanished">描述 &lt;font size=&apos;2&apos;&gt;(本地資訊)&lt;/font&gt;</translation>
+        <translation>描述 &lt;font size=&apos;2&apos;&gt;(本地数据库)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="127"/>
@@ -84,15 +84,15 @@
     </message>
     <message>
         <source>ADD</source>
-        <translation type="vanished">新增</translation>
+        <translation>新增</translation>
     </message>
     <message>
         <source>Payment ID</source>
-        <translation type="vanished">付款 ID</translation>
+        <translation>付款ID</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="vanished">標記</translation>
+        <translation>描述</translation>
     </message>
 </context>
 <context>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../components/AddressBookTable.qml" line="106"/>
         <source>Payment ID:</source>
-        <translation>付款 ID:</translation>
+        <translation>付款ID:</translation>
     </message>
 </context>
 <context>
@@ -113,22 +113,22 @@
     <message>
         <location filename="../BasicPanel.qml" line="98"/>
         <source>Locked Balance:</source>
-        <translation>總餘額:</translation>
+        <translation>锁定余额:</translation>
     </message>
     <message>
         <location filename="../BasicPanel.qml" line="112"/>
         <source>78.9239845</source>
-        <translation type="unfinished"></translation>
+        <translation>78.9239845</translation>
     </message>
     <message>
         <location filename="../BasicPanel.qml" line="136"/>
         <source>Available Balance:</source>
-        <translation>可用餘額:</translation>
+        <translation>可用余额:</translation>
     </message>
     <message>
         <location filename="../BasicPanel.qml" line="150"/>
         <source>2324.9239845</source>
-        <translation type="unfinished"></translation>
+        <translation>2324.9239845</translation>
     </message>
 </context>
 <context>
@@ -136,12 +136,12 @@
     <message>
         <location filename="../components/DaemonConsole.qml" line="108"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location filename="../components/DaemonConsole.qml" line="119"/>
         <source>command + enter (e.g help)</source>
-        <translation type="unfinished"></translation>
+        <translation>命名 + 进入 （例如， 帮助）</translation>
     </message>
 </context>
 <context>
@@ -149,28 +149,28 @@
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="84"/>
         <source>Starting Monero daemon in %1 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>在1秒内进入Monero守护进程</translation>
     </message>
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="106"/>
         <source>Start daemon (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>开启守护进程 (%1)</translation>
     </message>
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="123"/>
         <source>Use custom settings</source>
-        <translation type="unfinished"></translation>
+        <translation>使用自定义设置</translation>
     </message>
 </context>
 <context>
     <name>DaemonProgress</name>
     <message>
         <source>Synchronizing blocks %1/%2</source>
-        <translation type="vanished">同步區塊中 %1 / %2</translation>
+        <translation>同步区块中 %1 / %2</translation>
     </message>
     <message>
         <source>Synchronizing blocks</source>
-        <translation type="vanished">同步區塊中</translation>
+        <translation>同步区块中</translation>
     </message>
 </context>
 <context>
@@ -178,7 +178,7 @@
     <message>
         <location filename="../pages/Dashboard.qml" line="57"/>
         <source>Quick transfer</source>
-        <translation>快速轉帳</translation>
+        <translation>快速转账</translation>
     </message>
     <message>
         <location filename="../pages/Dashboard.qml" line="89"/>
@@ -206,12 +206,12 @@
     <message>
         <location filename="../components/DashboardTable.qml" line="172"/>
         <source>Balance</source>
-        <translation>餘額</translation>
+        <translation>余额</translation>
     </message>
     <message>
         <location filename="../components/DashboardTable.qml" line="193"/>
         <source>Amount</source>
-        <translation>金額</translation>
+        <translation>数额</translation>
     </message>
 </context>
 <context>
@@ -219,44 +219,44 @@
     <message>
         <location filename="../pages/History.qml" line="70"/>
         <source> selected: </source>
-        <translation>已選擇的:</translation>
+        <translation>已选择的:</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="134"/>
         <source>Filter transaction history</source>
-        <translation>交易紀錄篩選</translation>
+        <translation>筛选交易记录</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="145"/>
         <source>&lt;b&gt;Total amount of selected payments&lt;/b&gt;</source>
-        <translation>&lt;b&gt;選擇的付款總金額&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;选择的付款总额&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="182"/>
         <source>Type for incremental search...</source>
-        <translation type="unfinished"></translation>
+        <translation>输入增量搜素</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="273"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>筛选条件</translation>
     </message>
     <message>
         <source>Incremental search</source>
-        <translation type="vanished">新增搜尋條件</translation>
+        <translation>增量搜索</translation>
     </message>
     <message>
         <source>Search transfers for a given string</source>
-        <translation type="vanished">以關鍵字搜尋付款紀錄</translation>
+        <translation type="vanished">以关键字搜索交易记录</translation>
     </message>
     <message>
         <source>Type search string</source>
-        <translation type="vanished">輸入搜尋關鍵字</translation>
+        <translation type="vanished">输入搜索关键字</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="222"/>
         <source>Date from</source>
-        <translation>日期從</translation>
+        <translation>日期从</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="224"/>
@@ -275,22 +275,22 @@
     </message>
     <message>
         <source>FILTER</source>
-        <translation type="vanished">篩選</translation>
+        <translation>筛选条件</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="310"/>
         <source>Advanced filtering</source>
-        <translation>進階篩選</translation>
+        <translation>高级搜索</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="329"/>
         <source>Type of transaction</source>
-        <translation>交易種類</translation>
+        <translation>交易种类</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="364"/>
         <source>Amount from</source>
-        <translation>金額從</translation>
+        <translation>数额从</translation>
     </message>
 </context>
 <context>
@@ -298,7 +298,7 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="48"/>
         <source>Tx ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>交易ID</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="49"/>
@@ -309,17 +309,17 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="50"/>
         <source>Tx key:</source>
-        <translation type="unfinished"></translation>
+        <translation>交易密钥</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="51"/>
         <source>Tx note:</source>
-        <translation type="unfinished"></translation>
+        <translation>交易备注</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="52"/>
         <source>Destinations:</source>
-        <translation type="unfinished"></translation>
+        <translation>目的地</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="78"/>
@@ -329,27 +329,27 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="110"/>
         <source>Details</source>
-        <translation>細節</translation>
+        <translation>细节</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="255"/>
         <source>BlockHeight:</source>
-        <translation>區塊高度:</translation>
+        <translation>区块高度:</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="270"/>
         <source>(%1/10 confirmations)</source>
-        <translation type="unfinished"></translation>
+        <translation>(%1/10 确认)</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="274"/>
         <source>UNCONFIRMED</source>
-        <translation type="unfinished"></translation>
+        <translation>未确认的</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="275"/>
         <source>PENDING</source>
-        <translation type="unfinished"></translation>
+        <translation>待定的</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="304"/>
@@ -359,12 +359,12 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="364"/>
         <source>Amount</source>
-        <translation>金額</translation>
+        <translation>数额</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="400"/>
         <source>Fee</source>
-        <translation>手續費</translation>
+        <translation>手续费</translation>
     </message>
 </context>
 <context>
@@ -372,7 +372,7 @@
     <message>
         <location filename="../LeftPanel.qml" line="116"/>
         <source>Balance</source>
-        <translation>餘額</translation>
+        <translation>余额</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="119"/>
@@ -382,7 +382,7 @@
     <message>
         <location filename="../LeftPanel.qml" line="160"/>
         <source>Unlocked balance</source>
-        <translation>總餘額</translation>
+        <translation>可用余额</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="163"/>
@@ -402,107 +402,107 @@
     <message>
         <location filename="../LeftPanel.qml" line="303"/>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation>R</translation>
     </message>
     <message>
         <source>Verify payment</source>
-        <translation type="vanished">確認交易</translation>
+        <translation>确认交易</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="396"/>
         <source>K</source>
-        <translation type="unfinished"></translation>
+        <translation>K</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="326"/>
         <source>History</source>
-        <translation>歷史紀錄</translation>
+        <translation>历史记录</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="277"/>
         <source>Address book</source>
-        <translation type="unfinished"></translation>
+        <translation>地址本</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="278"/>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation>B</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="327"/>
         <source>H</source>
-        <translation type="unfinished"></translation>
+        <translation>H</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="349"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>高级</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="350"/>
         <source>D</source>
-        <translation type="unfinished"></translation>
+        <translation>D</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="371"/>
         <source>Mining</source>
-        <translation type="unfinished"></translation>
+        <translation>挖矿</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="372"/>
         <source>M</source>
-        <translation type="unfinished"></translation>
+        <translation>M</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="395"/>
         <source>Check payment</source>
-        <translation type="unfinished"></translation>
+        <translation>确认付款信息</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="419"/>
         <source>Sign/verify</source>
-        <translation>簽署 / 驗證</translation>
+        <translation>签名/验证</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="443"/>
         <source>E</source>
-        <translation type="unfinished"></translation>
+        <translation>E</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="253"/>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>S</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="420"/>
         <source>I</source>
-        <translation type="unfinished"></translation>
+        <translation>I</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="442"/>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation>设置</translation>
     </message>
 </context>
 <context>
     <name>MiddlePanel</name>
     <message>
         <source>Balance:</source>
-        <translation type="vanished">總餘額:</translation>
+        <translation>余额:</translation>
     </message>
     <message>
         <source>Unlocked Balance:</source>
-        <translation type="vanished">可用餘額:</translation>
+        <translation>可用余额:</translation>
     </message>
     <message>
         <location filename="../MiddlePanel.qml" line="45"/>
         <source>Balance</source>
-        <translation type="unfinished">餘額</translation>
+        <translation type="unfinished">余额</translation>
     </message>
     <message>
         <location filename="../MiddlePanel.qml" line="47"/>
         <source>Unlocked Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>可用余额</translation>
     </message>
 </context>
 <context>
@@ -510,107 +510,107 @@
     <message>
         <location filename="../pages/Mining.qml" line="72"/>
         <source>Solo mining</source>
-        <translation type="unfinished"></translation>
+        <translation>单独挖矿</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="79"/>
         <source>(only available for local daemons)</source>
-        <translation type="unfinished"></translation>
+        <translation>只对本地进程可用</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="85"/>
         <source>Mining helps the Monero network build resilience.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>挖矿有助于Monero网络增加韧性</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="86"/>
         <source>The more mining is done, the harder it is to attack the network.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>更多的算力使得对于Monero网络的攻击更加困难</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="87"/>
         <source>Mining also gives you a small chance to earn some Monero.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>通过挖矿，您同时有机会获得一定数量的Monero。&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="88"/>
         <source>Your computer will search for Monero block solutions.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>您的电脑将会搜寻Monero区块解决方案</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="89"/>
         <source>If you find a block, you will get the associated reward.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您发现一个区块，您会获得相应的奖励。&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="99"/>
         <source>CPU threads</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU线程</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="107"/>
         <source>(optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>（可选的）</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="121"/>
         <source>Background mining (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>后台挖矿（实验）</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="137"/>
-        <source>Enable mining when running on battery</source>
-        <translation type="unfinished"></translation>
+        <source>使用电池时允许挖矿</source>
+        <translation></translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="147"/>
         <source>Manage miner</source>
-        <translation type="unfinished"></translation>
+        <translation>管理矿工</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="156"/>
         <source>Start mining</source>
-        <translation type="unfinished"></translation>
+        <translation>开始挖矿</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="166"/>
         <source>Error starting mining</source>
-        <translation type="unfinished"></translation>
+        <translation>当开始挖矿时发生错误</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="167"/>
         <source>Couldn&apos;t start mining.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>无法开始挖矿。&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="169"/>
         <source>Mining is only available on local daemons. Run a local daemon to be able to mine.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>挖矿只对本地进程可用。运行本地进程一使能够挖矿。&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="181"/>
         <source>Stop mining</source>
-        <translation type="unfinished"></translation>
+        <translation>停止挖矿</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="198"/>
         <source>Status: not mining</source>
-        <translation type="unfinished"></translation>
+        <translation>状态：未挖矿</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="209"/>
         <source>Mining at %1 H/s</source>
-        <translation type="unfinished"></translation>
+        <translation>挖矿算力为 %1 H/s</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="212"/>
         <source>Not mining</source>
-        <translation type="unfinished"></translation>
+        <translation>未挖矿</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="214"/>
         <source>Status: </source>
-        <translation type="unfinished"></translation>
+        <translation>状态：</translation>
     </message>
 </context>
 <context>
@@ -618,32 +618,32 @@
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="53"/>
         <source>Synchronizing</source>
-        <translation type="unfinished"></translation>
+        <translation>区块同步中</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="54"/>
         <source>Connected</source>
-        <translation>已連接</translation>
+        <translation>已连接</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="57"/>
         <source>Wrong version</source>
-        <translation>版本錯誤</translation>
+        <translation>版本错误</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="59"/>
         <source>Disconnected</source>
-        <translation>已離線</translation>
+        <translation>已离线</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="60"/>
         <source>Invalid connection status</source>
-        <translation>無效的連接狀態</translation>
+        <translation>无效的连接状态</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="85"/>
         <source>Network status</source>
-        <translation>網路同步狀態</translation>
+        <translation>网络状态</translation>
     </message>
 </context>
 <context>
@@ -651,12 +651,12 @@
     <message>
         <location filename="../components/PasswordDialog.qml" line="70"/>
         <source>Please enter wallet password</source>
-        <translation>請輸入錢包的密碼</translation>
+        <translation>请输入钱包密码</translation>
     </message>
     <message>
         <location filename="../components/PasswordDialog.qml" line="70"/>
         <source>Please enter wallet password for:&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>请输入钱包密码：&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../components/PasswordDialog.qml" line="147"/>
@@ -686,17 +686,17 @@
     <message>
         <location filename="../components/PrivacyLevelSmall.qml" line="100"/>
         <source>Low</source>
-        <translation type="unfinished"></translation>
+        <translation>低</translation>
     </message>
     <message>
         <location filename="../components/PrivacyLevelSmall.qml" line="109"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>中</translation>
     </message>
     <message>
         <location filename="../components/PrivacyLevelSmall.qml" line="118"/>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation>高</translation>
     </message>
 </context>
 <context>
@@ -704,17 +704,17 @@
     <message>
         <location filename="../components/ProgressBar.qml" line="43"/>
         <source>Establishing connection...</source>
-        <translation type="unfinished"></translation>
+        <translation>建立连接...</translation>
     </message>
     <message>
         <location filename="../components/ProgressBar.qml" line="57"/>
         <source>Blocks remaining: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>剩余区块：%1</translation>
     </message>
     <message>
         <location filename="../components/ProgressBar.qml" line="100"/>
         <source>Synchronizing blocks</source>
-        <translation type="unfinished">同步區塊中</translation>
+        <translation type="unfinished">同步区块中</translation>
     </message>
 </context>
 <context>
@@ -722,42 +722,42 @@
     <message>
         <location filename="../pages/Receive.qml" line="63"/>
         <source>Invalid payment ID</source>
-        <translation>無效的付款ID</translation>
+        <translation>无效的付款ID</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="100"/>
         <source>WARNING: no connection to daemon</source>
-        <translation type="unfinished"></translation>
+        <translation>警告：未与守护进程连接</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="122"/>
         <source>in the txpool: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>在交易池中：%1</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="129"/>
         <source>%2 confirmations: %3 (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 确认: %3 (%1)</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="131"/>
         <source>1 confirmation: %2 (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>1 确认: %2 (%1)</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="139"/>
         <source>No transaction found yet...</source>
-        <translation type="unfinished"></translation>
+        <translation>尚未发现交易...</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="143"/>
         <source>Transaction found</source>
-        <translation type="unfinished"></translation>
+        <translation>发现交易</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="143"/>
         <source>%1 transactions found</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 发现交易</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="149"/>
