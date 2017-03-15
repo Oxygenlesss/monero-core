@@ -540,7 +540,7 @@
     <message>
         <location filename="../pages/Mining.qml" line="89"/>
         <source>If you find a block, you will get the associated reward.&lt;br&gt;</source>
-        <translation>如果您发现一个区块，您会获得相应的奖励。&lt;br&gt;</translation>
+        <translation>如果发现一个区块，您会获得相应的奖励。&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="99"/>
@@ -762,67 +762,67 @@
     <message>
         <location filename="../pages/Receive.qml" line="149"/>
         <source> with more money (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>对于更多的钱 (%1)</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="151"/>
         <source> with not enough money (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>对于不足的钱 (%1)</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="182"/>
         <source>Address</source>
-        <translation>位址</translation>
+        <translation>地址</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="189"/>
         <source>ReadOnly wallet address displayed here</source>
-        <translation>唯讀錢包的位址會顯示在這</translation>
+        <translation>只读钱包的地址</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="219"/>
         <source>16 hexadecimal characters</source>
-        <translation type="unfinished"></translation>
+        <translation>16位十六进制字符</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="258"/>
         <source>Integrated address</source>
-        <translation>整合位址</translation>
+        <translation>整合地址</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="267"/>
         <source>ReadOnly wallet integrated address displayed here</source>
-        <translation>唯讀錢包的整合位址會顯示在這</translation>
+        <translation>只读钱包的整合地址</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="320"/>
         <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FF6C3C; font-size: 14px;}&lt;/style&gt;                           Tracking &lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;help&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FF6C3C; font-size: 14px;}&lt;/style&gt;                           跟踪 &lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;help&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="325"/>
         <source>Tracking payments</source>
-        <translation type="unfinished"></translation>
+        <translation>跟踪付款</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="326"/>
         <source>&lt;p&gt;&lt;font size=&apos;+2&apos;&gt;This is a simple sales tracker:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Click Generate to create a random payment id for a new customer&lt;/p&gt; &lt;p&gt;Let your customer scan that QR code to make a payment (if that customer has software which supports QR code scanning).&lt;/p&gt;&lt;p&gt;This page will automatically scan the blockchain and the tx pool for incoming transactions using this QR code. If you input an amount, it will also check that incoming transactions total up to that amount.&lt;/p&gt;It&apos;s up to you whether to accept unconfirmed transactions or not. It is likely they&apos;ll be confirmed in short order, but there is still a possibility they might not, so for larger values you may want to wait for one or more confirmation(s).&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;font size=&apos;+2&apos;&gt;这是一个简单的销售跟踪器:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;点击生成为一个新的客户创建一个随机的付款ID&lt;/p&gt; &lt;p&gt;让你的客户扫描那个二维码进行付款 (如果你的客户有支持二维码扫描的软件).&lt;/p&gt;&lt;p&gt;这个页面会自动使用此二维码来扫描整个区块链和交易池来寻找将要发生的交易。 如果你输入一个数额，它同时会检查即将发生的交易中数额一致的那些交易。&lt;/p&gt;接受或者不接受未确认交易取决于你。很大可能上这些交易会在很短的时间内得到确认, 但是也存在一定的可能这些交易不被确认。 所以说对于大额交易，你最好等到一个或者多个确认。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="370"/>
         <source>Save QrCode</source>
-        <translation type="unfinished"></translation>
+        <translation>保存二维码</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="371"/>
         <source>Failed to save QrCode to </source>
-        <translation type="unfinished"></translation>
+        <translation>无法保存二维码</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="382"/>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="211"/>
@@ -831,18 +831,18 @@
     </message>
     <message>
         <source>16 or 64 hexadecimal characters</source>
-        <translation type="vanished">16 或 64 十六進位字母</translation>
+        <translation>16或64位十六进制字符</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="244"/>
         <source>Generate</source>
-        <translation>產生</translation>
+        <translation>生成</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="291"/>
         <location filename="../pages/Receive.qml" line="299"/>
         <source>Amount</source>
-        <translation>金額</translation>
+        <translation>数额</translation>
     </message>
 </context>
 <context>
@@ -850,7 +850,7 @@
     <message>
         <location filename="../RightPanel.qml" line="61"/>
         <source>Twitter</source>
-        <translation>推特</translation>
+        <translation>Twitter</translation>
     </message>
     <message>
         <location filename="../RightPanel.qml" line="62"/>
@@ -860,12 +860,12 @@
     <message>
         <location filename="../RightPanel.qml" line="63"/>
         <source>Help</source>
-        <translation>說明</translation>
+        <translation>帮助</translation>
     </message>
     <message>
         <location filename="../RightPanel.qml" line="64"/>
         <source>About</source>
-        <translation>關於</translation>
+        <translation>关于</translation>
     </message>
 </context>
 <context>
@@ -873,37 +873,37 @@
     <message>
         <location filename="../components/SearchInput.qml" line="69"/>
         <source>Search by...</source>
-        <translation>搜尋條件...</translation>
+        <translation>搜索条件...</translation>
     </message>
     <message>
         <location filename="../components/SearchInput.qml" line="230"/>
         <source>SEARCH</source>
-        <translation>搜尋</translation>
+        <translation>搜索</translation>
     </message>
 </context>
 <context>
     <name>Settings</name>
     <message>
         <source>Click button to show seed</source>
-        <translation type="vanished">點選顯示種子碼</translation>
+        <translation type="vanished">点击按钮显示种子码</translation>
     </message>
     <message>
         <source>Mnemonic seed: </source>
-        <translation type="vanished">輔助記憶種子碼:</translation>
+        <translation type="vanished">记忆种子码:</translation>
     </message>
     <message>
         <source>It is very important to write it down as this is the only backup you will need for your wallet.</source>
-        <translation type="vanished">請注意這是唯一需要備份的錢包資訊，請一定要抄寫下來。</translation>
+        <translation type="vanished">注意这是唯一需要备份的钱包信息，请一定保存好。</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="103"/>
         <source>Create view only wallet</source>
-        <translation type="unfinished"></translation>
+        <translation>生成只读钱包</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="120"/>
         <source>Show seed</source>
-        <translation>顯示種子碼</translation>
+        <translation>显示种子码</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="133"/>
