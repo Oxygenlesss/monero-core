@@ -1878,29 +1878,29 @@ Please upgrade or connect to another daemon</source>
     <message>
         <location filename="../wizard/WizardManageWalletUI.qml" line="245"/>
         <source>Your wallet is stored in</source>
-        <translation>您的錢包被儲存在</translation>
+        <translation>您的钱包被储存在</translation>
     </message>
     <message>
         <location filename="../wizard/WizardManageWalletUI.qml" line="272"/>
         <source>Please choose a directory</source>
-        <translation>請選擇一個目錄</translation>
+        <translation>请选择一个目录</translation>
     </message>
 </context>
 <context>
     <name>WizardMemoTextInput</name>
     <message>
         <source>It is very important to write it down as this is the only backup you will need for your wallet. You will be asked to confirm the seed in the next screen to ensure it has copied down correctly.</source>
-        <translation type="vanished">這是您唯一需要備份的錢包資訊，請一定要抄寫下來。您將會在下一個後被要求確認這份種子碼以確保你有妥善備份它。</translation>
+        <translation type="vanished">这是唯一需要备份的钱包信息，请一定记录下来。在下一个步骤中您需要确认这些种子码被正确记录下来。</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMemoTextInput.qml" line="44"/>
         <source>Enter your 25 word mnemonic seed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入您的25个记忆种子码</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMemoTextInput.qml" line="88"/>
         <source>This seed is &lt;b&gt;very&lt;/b&gt; important to write down and keep secret. It is all you need to backup and restore your wallet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">这些种子码一定要记录下来并且秘密妥善保管，它们是你备份和恢复钱包唯一需要的信息。</translation>
     </message>
 </context>
 <context>
@@ -1908,53 +1908,53 @@ Please upgrade or connect to another daemon</source>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="87"/>
         <source>Welcome to Monero!</source>
-        <translation>歡迎使用 Monero！</translation>
+        <translation>欢迎使用Monero！</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="98"/>
         <source>Please select one of the following options:</source>
-        <translation>請於下面選擇您需要的功能:</translation>
+        <translation>请选择需要的选项:</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="155"/>
         <source>Create a new wallet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建一个新的钱包</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="197"/>
         <source>Restore wallet from keys or mnemonic seed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用密钥或者记忆种子码恢复钱包</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="241"/>
         <source>Open a wallet from file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">从文件中打开钱包</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="262"/>
         <source>Custom daemon address (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自定义区块链同步进程地址（可选的）</translation>
     </message>
     <message>
         <source>This is my first time, I want to create a new account</source>
-        <translation type="vanished">這是我第一次使用，我想要創建一個新的帳戶</translation>
+        <translation type="vanished">这是我第一次使用，我想要创建一个新的账户</translation>
     </message>
     <message>
         <source>I want to recover my account from my 25 word seed</source>
-        <translation type="vanished">我想要從一組25字種子碼回復我的帳戶</translation>
+        <translation type="vanished">我想要使用25个种子码恢复我的账户</translation>
     </message>
     <message>
         <source>I want to open a wallet from file</source>
-        <translation type="vanished">我想要從檔案開啟錢包</translation>
+        <translation type="vanished">我想要从文件中打开钱包</translation>
     </message>
     <message>
         <source>Please setup daemon address below.</source>
-        <translation type="vanished">請在下面設定區塊鏈同步程式的位置。</translation>
+        <translation type="vanished">请在下边设置区块链同步进程的地址</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="295"/>
         <source>Testnet</source>
-        <translation>連接至測試用網路</translation>
+        <translation>连接至测试网络</translation>
     </message>
 </context>
 <context>
